@@ -24,6 +24,7 @@ img {
 }
 
 input {
+    border-radius: 50px;
     font-size: 15px;
     padding: 20px;
     margin: 10px;
