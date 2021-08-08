@@ -2,12 +2,12 @@
 
 # Making toDoList
 
-## What i do use
+## What i uses
 - css
 - html
 - Java Script
 
-## What i emplement 
+## What i builds
 - Timer with JS api.
 - Weather using openWeatherMap
 - Random Back ground Images 
